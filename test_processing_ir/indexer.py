@@ -1,8 +1,8 @@
 from collections import defaultdict
 from typing import Dict
 
-from inverted_index import InvertedIndex
-from text_processor import TextProcessor
+from test_processing_ir.inverted_index import InvertedIndex
+from test_processing_ir.text_processor import TextProcessor
 
 
 class Indexer:
